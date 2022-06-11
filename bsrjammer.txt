@@ -1,0 +1,8 @@
+Team BSR JammEr. used HTML, JS, CSS, jQuery, Bootstrap to create this modified UI web page of DAVIET.
+we havent included more bloatware because it might not increase the goodwillness of the web page.
+
+On the navigation bar we are added six functions home,achedmics,department,about-us,blog,and location of the DAVIET collage.
+We are adding some cool animation effect/hover effect which makes page attractive and fancy.
+We also added Some video element in it, we are added very useful functions in it which are totally related to our collage.
+We took some data from DAVIET official site, infact we added direct link of official web page of DAVIET for admissions.
+At the end we are try to give simple and user friendly look to our page.
