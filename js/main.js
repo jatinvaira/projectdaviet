@@ -8,7 +8,7 @@
      });
 
      $(".text").typed({
-         strings: ["<strong>BSR </strong><strong class='primary'>JammEr.</strong>", "<strong>DAVIET</strong><strong class='primary'> SudoHacks!!.</strong>"],
+         strings: ["<strong>DAV </strong><strong class='primary'>INSTITUTE of</strong>", "<strong>ENGINEERING and</strong><strong class='primary'> TECHNOLOGY</strong>"],
          typespeed: 0.7,
          loop: true
 
